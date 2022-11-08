@@ -58,7 +58,7 @@
   
   ## Connect to your SSH using Visual Studio Code
   
-  ** Please make sure you have forked the Bynder Repository with your GitHub account. **
+  **Please make sure you have forked the Bynder Repository with your GitHub account.**
   
   1. Assuming you're using VSC as your chosen IDE, download two extensions, Remote - SSH and Remote - SSH: Editing Configurations, both of them are produced by Microsoft.
   
