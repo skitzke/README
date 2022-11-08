@@ -65,3 +65,5 @@
   2. Restart your IDE
   
   3. On the left go to Remote Explorer, and press on the +, this will ask for a SSH Connection Command, use the same command from Step 2 in 'Connecting to your SSH' and press enter. This will show all the files you have access to in Explorer.
+
+### If you have any issues go to the [#b-help-dev-env](https://bynder.slack.com/archives/CARGM7PL0) channel.
